@@ -2,6 +2,9 @@
 
 Welcome to Spotify User Data! This is a simple repo to generate figures of **one Spotify user's listening history**. This project uses Spotipy, Matplotlib, and Pandas.  
 
+Example Output:
+![All about dark and energetic over here](example_fig.png "My Listening History")
+
 You will need to set up a Spotify app in the [Spotify Developer Portal](https://developer.spotify.com/dashboard/). When setting up the app, set the **Redirect URI** to `http://localhost:8080`. After creating the app, copy the **Client ID** and **Client Secret** to use in the `.env` file in this repo. 
 
 ## Prerequisites
