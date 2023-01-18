@@ -15,7 +15,7 @@ Have Python3 and Pip3 installed on your machine.
 ## Install 
 Run the following commands 
 ```
-chmod +x ./scripts/install
+chmod +x ./scripts/install.sh
 ./scripts/install.sh
 ```
 
@@ -27,7 +27,7 @@ If you wish, modify the `NUMBER_OF_SONGS`, `TIME_RANGE`, `FIG_OUTPUT_PATH` to fi
 
 ## Run 
 ```
-chmod +x ./scripts/install
+chmod +x ./scripts/run.sh
 ./scripts/run.sh
 ```
 
